@@ -1,6 +1,6 @@
 # Real-Time-Financial-Analysis-Trading-System
 
-A Real-Time Financial Analysis and Trading System that performs a variety of functions
+Real-Time Financial Analysis and Trading System that performs a variety of functions
 
 ## table of contents
 
